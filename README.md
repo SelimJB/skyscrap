@@ -2,7 +2,9 @@
 
 A small Unity game created in 2018.  
 
-You can play it here: https://lombardidelavega.itch.io/skyscrap
+Stack blocks with perfect timing : what sticks stays, what overflows gets sliced.
+
+[🕹️ Can be played here 🕹️](https://lombardidelavega.itch.io/skyscrap)
 
 ![Overview](docs/skyscrap.gif)
 
